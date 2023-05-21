@@ -1,7 +1,3 @@
-# Project Name
-
-SeriesApp
-
 ## Description
 
 This project is a TV Show Explorer application built with React, utilizing UI styles from PrimeNG and Bootstrap. It allows users to explore popular TV shows, search for specific shows, and view detailed information about each TV show.
