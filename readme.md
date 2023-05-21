@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [PrimeNG](https://www.primefaces.org/primeng/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Bootstrap](https://axios-http.com/)
+- [Axios](https://axios-http.com/)
